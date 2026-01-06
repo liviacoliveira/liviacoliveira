@@ -2,5 +2,5 @@
 
 
 
-- 🔭 Estudante de Sistemas de Informação no Inteli (Instituto de Tecnologia e Liderança)
+- 🔭 Estudante de Engenharia da Computação no Inteli (Instituto de Tecnologia e Liderança)
 
