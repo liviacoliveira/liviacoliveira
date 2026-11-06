@@ -17,30 +17,26 @@ Atualmente, tenho direcionado meus estudos e projetos para aplicações de IA, e
 
 ## 🚀 Projetos em destaque
 
-### ApruebaAI — Machine Learning
-Desenvolvimento de um modelo preditivo para identificar estudantes com risco de reprovação em Pensamento Computacional, em parceria com a Universidad EAFIT, na Colômbia. O projeto envolveu preparação e análise de dados, Regressão Logística, tratamento de desbalanceamento com SMOTE, validação cruzada e interpretabilidade com SHAP. Também foi desenvolvida uma interface interativa em Streamlit para apresentar as previsões.
+### [ApruebaAI — Machine Learning](https://github.com/InteliProjects/2025-2A-T15-IN03-G01/tree/main)
+Desenvolvimento de um modelo preditivo para identificar estudantes com risco de reprovação em Pensamento Computacional, em parceria com a Universidad EAFIT, na Colômbia. O projeto envolveu preparação e análise de dados, Regressão Logística, SMOTE, validação cruzada e interpretabilidade com SHAP.
 
 **Tecnologias:** Python, Pandas, Scikit-learn, SMOTE, SHAP e Streamlit.
 
-### EagleEye — Visão Computacional
+📄 [Acessar repositório e documentação](https://github.com/InteliProjects/2025-2A-T15-IN03-G01/tree/main)
+
+### [EagleEye — Visão Computacional](https://g04-537921.pages.git.inteli.edu.br/solu%C3%A7%C3%A3o/)
 Desenvolvimento de um MVP para identificação automatizada de veículos roubados a partir de imagens capturadas por drones, em parceria com a Pier Seguradora. A solução integra técnicas de detecção de placas, reconhecimento óptico de caracteres (OCR) e classificação de veículos.
 
 **Tecnologias:** Python, YOLO, Moondream e Docker.
 
-### Robô de Atendimento CPTM — IA Generativa e Robótica
-Desenvolvimento de uma solução de atendimento inteligente para passageiros da CPTM, combinando robótica autônoma e Inteligência Artificial Generativa. Minha atuação está concentrada no componente conversacional, incluindo integração com APIs de modelos de linguagem e engenharia de prompts para orientar as respostas do robô.
+📄 [Acessar documentação do projeto](https://g04-537921.pages.git.inteli.edu.br/solu%C3%A7%C3%A3o/)
+
+### [Robô de Atendimento CPTM — IA Generativa e Robótica](https://g02-1cc1a4.pages.git.inteli.edu.br/)
+Desenvolvimento de uma solução de atendimento inteligente para passageiros da CPTM, combinando robótica autônoma e Inteligência Artificial Generativa. Minha atuação está concentrada no componente conversacional, incluindo integração com APIs de modelos de linguagem e engenharia de prompts.
 
 **Tecnologias:** LLMs, APIs, Prompt Engineering e ROS 2.
 
-### ColeData — IoT e Qualidade Automotiva
-Desenvolvimento de um protótipo para monitoramento de ruídos e vibrações em veículos, em parceria com a Renault. A solução utiliza sensores conectados a microcontroladores ESP32 para coletar dados e transmitir informações a uma plataforma de monitoramento.
-
-**Tecnologias:** C++, ESP32, MPU6050, sensores piezoelétricos, ESP-NOW e MQTT.
-
-### Skillseed — Plataforma Educacional
-Desenvolvimento de uma plataforma de aprendizagem corporativa em parceria com a Bayer, com foco em treinamentos relacionados ao Climate FieldView. O projeto envolveu desenvolvimento web, organização da aplicação e integração com banco de dados.
-
-**Tecnologias:** JavaScript, HTML, CSS e PostgreSQL.
+📄 [Acessar documentação do projeto](https://g02-1cc1a4.pages.git.inteli.edu.br/)
 
 ## 💼 Experiência
 
