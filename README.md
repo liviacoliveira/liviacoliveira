@@ -24,16 +24,16 @@ Modelo preditivo de risco de reprovação em parceria com a Universidad EAFIT (C
 
 ## 🧭 Minha jornada no Inteli
 
-| Módulo | Projeto | Tema | Tecnologias | Link |
-|---|---|---|---|---|
-| 1 | CATch | Jogo interativo para gatos, focado na interação entre gato e tutor | JavaScript, HTML | [Repositório](https://github.com/InteliProjects/2025-1A-T15-IN01-G02) · [Jogar](https://inteli-college.github.io/2025-1A-T15-IN01-G02/) |
-| 2 | [preencher] | [preencher] | [preencher] | [Repositório](https://github.com/Inteli-College/2025-1B-T15-IN02-G01) |
-| 3 | ApruebaAI | Previsão de risco de reprovação (EAFIT) | Python, Scikit-learn, SHAP | [Repositório](https://github.com/InteliProjects/2025-2A-T15-IN03-G01/tree/main) |
-| 4 | Coledata | [preencher] | [preencher] | [Repositório](https://github.com/Inteli-College/2025-2B-T15-IN04-G02) |
-| 5 | [nome] — Itubombas | Sistema semiautomatizado de dragagem | [preencher] | [Documentação](https://graduacao.pages.git.inteli.edu.br/2026-1a/t16/g04/) |
-| 6 | EagleEye | Detecção de veículos roubados com drones (Pier Seguradora) | Python, YOLO, OCR, Docker | [Documentação](https://graduacao.pages.git.inteli.edu.br/2026-1b/t16/g04/) |
-| 7 | Manutenção preditiva (Motiva) | Falhas em portas de plataforma do metrô | LSTM, FastAPI, Docker, PostgreSQL | [Documentação](https://g02-73fad0.pages.git.inteli.edu.br) |
-| 8 | Robô CPTM | Atendimento a passageiros com IA generativa | LLMs, RAG, ROS 2 | [Documentação](https://g02-1cc1a4.pages.git.inteli.edu.br/) |
+| Módulo | Projeto | Sobre | Link |
+|---|---|---|---|
+| 1 | CATch | Jogo interativo para gatos, com foco na interação entre gato e tutor. JavaScript e HTML. | [Repositório](https://github.com/InteliProjects/2025-1A-T15-IN01-G02) · [Jogar](https://inteli-college.github.io/2025-1A-T15-IN01-G02/) |
+| 2 | Skillseed | Web trilha de aprendizado para os promotores técnicos digitais da Bayer (Climate FieldView), para reduzir chamados de suporte. Node.js, Express, EJS e PostgreSQL. | — |
+| 3 | ApruebaAI | Previsão de risco de reprovação em parceria com a EAFIT. Python, Scikit-learn, SMOTE, SHAP e Streamlit. | [Repositório](https://github.com/InteliProjects/2025-2A-T15-IN03-G01/tree/main) |
+| 4 | Coledata | Solução IoT com ESP32, sensores piezoelétricos e acelerômetros, que envia dados por MQTT e ESP-NOW para a plataforma Ubidots, em parceria com a Renault (ruídos *squeak* e *rattle*). C++. | — |
+| 5 | Sistema Automatizado de Dragagem | Barcaça de dragagem semiautomatizada, em parceria com a Itubombas. | [Documentação](https://graduacao.pages.git.inteli.edu.br/2026-1a/t16/g04/) |
+| 6 | EagleEye | Detecção de veículos roubados em imagens de drones, em parceria com a Pier Seguradora. Python, YOLO, OCR e Docker. | [Documentação](https://graduacao.pages.git.inteli.edu.br/2026-1b/t16/g04/) |
+| 7 | Manutenção preditiva (Motiva) | Previsão de falhas em portas de plataforma do metrô. LSTM, FastAPI, Docker e PostgreSQL. | [Documentação](https://g02-73fad0.pages.git.inteli.edu.br) |
+| 8 | Robô CPTM | Atendimento a passageiros com IA generativa. LLMs, RAG e ROS 2. | [Documentação](https://g02-1cc1a4.pages.git.inteli.edu.br/) |
 
 ## 🛠️ Tecnologias e ferramentas
 
